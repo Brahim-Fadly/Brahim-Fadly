@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Brahim Fadly</h1>
 <h3 align="center">A passionate web developer from Morocco</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/0*IjwqslkWZDHTMK9Y.gif">
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brahim-fadly" alt="brahim-fadly" /></a> </p>
 
 - 🌱 I’m currently learning **MERN stack**
